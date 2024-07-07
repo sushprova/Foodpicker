@@ -1,0 +1,71 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Home
+    </ion-title>
+    <ion-button (click)="gotoUpdate()" color="warning" slot="end"> Update Password</ion-button>
+
+    <ion-button (click)="signout()" color="danger" slot="end"> Sign Out</ion-button>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Tab 1</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+  <ion-content>
+    <p> We know, it's hard to pick a restaurant.....Let me show you some options!!!</p>
+      <p> Please enter your address in the address bar.
+    </p>
+    
+
+    <div class="address">
+      <ion-input [(ngModel)]="place" class="spacer" label="Address" labelPlacement="stacked" [clearOnEdit]="true"
+        placeholder="Oxford,MS"></ion-input>
+
+      <ion-button (click)="locateMe()">
+        <ion-icon slot="icon-only" name="location-sharp"></ion-icon>
+      </ion-button>
+    </div>
+
+    <ion-list>
+      <ion-button (click)="getStuff()">Search</ion-button>
+      <ion-button [routerLink]="['../filter']">
+        Filter
+        <ion-icon name="filter-outline"></ion-icon>
+      </ion-button>
+      <ion-card *ngFor="let item of items">
+        <ion-card-header>
+          {{ item.name }}
+          <!-- <ion-button (click)="addToFavorites(item)" fill="clear" slot="end">
+          <ion-icon name="heart" slot="icon-only"></ion-icon>
+          </ion-button> -->
+        </ion-card-header>
+        <ion-card-content>
+
+          <ion-button *ngIf="item.isFavorite; else notFavoritedIcon" color="danger" fill="solid" shape="round"
+            (click)="item.isFavorite = !item.isFavorite; updateFavorites();">
+            <ion-icon name="heart"></ion-icon>
+          </ion-button>
+
+          <ng-template #notFavoritedIcon>
+            <ion-button color="danger" fill="outline" shape="round"
+              (click)="item.isFavorite = !item.isFavorite; updateFavorites();">
+              <ion-icon name="heart-outline"></ion-icon>
+            </ion-button>
+
+          </ng-template>
+          <p><strong>Category:</strong> {{ item.categories[0].name }}</p>
+          <p><strong>Address:</strong> {{ item.location.formatted_address }}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-list>
+
+  </ion-content>
+
+  <!-- <app-explore-container name="Tab 1 page"></app-explore-container> -->
+</ion-content>

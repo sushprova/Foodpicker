@@ -1,0 +1,45 @@
+#button{
+    display: flex;
+    justify-content: center;
+    padding-bottom: .1cm;
+      
+}
+
+#signup{
+    font-style: oblique;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    padding-top: 1cm;
+    
+}
+.background-image {
+    background-image: url("../../assets/images/handrawn-barbecue-elements.jpg");
+    
+    background-size:50% 50%;
+    background-position: center center;
+    background-repeat: repeat;
+     height: 100vh;
+     width: 100%;
+  }
+  .transparent-card {
+    background-color: rgba(231, 237, 239, 0.708); 
+    display: flex;
+    // flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+  
+  
+// #page-background{
+//     background-image: url("../../assets/images/handrawn-barbecue-elements.jpg");
+//     background-size: cover;
+//     background-repeat: no-repeat;
+// }

@@ -1,0 +1,38 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Signup</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">signup</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <form [formGroup]="form" (ngSubmit)="register()">
+  <ion-item>
+    <ion-input label="Email Address" placeholder="email@email.com" type="text" formControlName="email"
+                class="form-control" [ngClass]="{ 'is-invalid': submitted && f['email'].errors }">
+
+              </ion-input>
+              <div *ngIf="submitted && f['email'].errors" class="invalid-feedback">
+                <div *ngIf="f['email'].errors['required']">Email is required</div>
+                <div *ngIf="f['email'].errors['email']">Email is invalid</div>
+              </div>
+  </ion-item>
+
+  <ion-item>
+    <ion-input label="Password" type="password" formControlName="password" class="form-control"
+                [ngClass]="{ 'is-invalid': submitted && f['password'].errors }"></ion-input>
+              <div *ngIf="submitted && f['password'].errors" class="invalid-feedback">
+                <div *ngIf="f['password'].errors['required']">Password is required</div>
+                <div *ngIf="f['password'].errors['minlength']">Password must be at least 6 characters</div>
+              </div>
+  </ion-item>
+  <ion-button fill="solid" id="button" type="submit">
+    Sign up
+  </ion-button>
+</form>
+</ion-content>

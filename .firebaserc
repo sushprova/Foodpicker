@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "food-picker-48481"
+  },
+  "targets": {
+    "food-picker-48481": {
+      "hosting": {
+        "app": [
+          "food-picker-48481"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2916 @@
+{
+    "results": [
+        {
+            "fsq_id": "4b784481f964a520d8c02ee3",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13236,
+                    "name": "Italian Restaurant",
+                    "short_name": "Italian",
+                    "plural_name": "Italian Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 61,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365885,
+                    "longitude": -89.519479
+                },
+                "roof": {
+                    "latitude": 34.365885,
+                    "longitude": -89.519479
+                }
+            },
+            "link": "/v3/places/4b784481f964a520d8c02ee3",
+            "location": {
+                "address": "1112 Van Buren Ave",
+                "census_block": "280719502042010",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1112 Van Buren Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Venice Kitchen",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4be4e3b02468c9288780ff42",
+            "categories": [
+                {
+                    "id": 13016,
+                    "name": "Lounge",
+                    "short_name": "Lounge",
+                    "plural_name": "Lounges",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 63,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.36686,
+                    "longitude": -89.520141
+                },
+                "roof": {
+                    "latitude": 34.36686,
+                    "longitude": -89.520141
+                }
+            },
+            "link": "/v3/places/4be4e3b02468c9288780ff42",
+            "location": {
+                "address": "1012 Jackson Ave E",
+                "census_block": "280719502042001",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "1012 Jackson Ave E, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Funky's",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4bdcd5b5afe8c9b62c435185",
+            "categories": [
+                {
+                    "id": 13044,
+                    "name": "Frozen Yogurt Shop",
+                    "short_name": "Yogurt",
+                    "plural_name": "Frozen Yogurt Shops",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/frozenyogurt_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "short_name": "Ice Cream",
+                    "plural_name": "Ice Cream Parlors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 64,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.366952,
+                    "longitude": -89.518815
+                },
+                "roof": {
+                    "latitude": 34.366952,
+                    "longitude": -89.518815
+                }
+            },
+            "link": "/v3/places/4bdcd5b5afe8c9b62c435185",
+            "location": {
+                "address": "100 Courthouse Sq",
+                "census_block": "280719502011018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "100 Courthouse Sq, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Yaya's Frozen Yogurt",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4f326abb19836c91c7d5c0aa",
+            "categories": [
+                {
+                    "id": 13022,
+                    "name": "Sports Bar",
+                    "short_name": "Sports Bar",
+                    "plural_name": "Sports Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 65,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.366806,
+                    "longitude": -89.519879
+                },
+                "roof": {
+                    "latitude": 34.366806,
+                    "longitude": -89.519879
+                }
+            },
+            "link": "/v3/places/4f326abb19836c91c7d5c0aa",
+            "location": {
+                "address": "120 S 11th St",
+                "census_block": "280719502042001",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "120 S 11th St, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Library",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "57774763498e47abfece6a21",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13236,
+                    "name": "Italian Restaurant",
+                    "short_name": "Italian",
+                    "plural_name": "Italian Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 80,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.367043,
+                    "longitude": -89.519411
+                },
+                "roof": {
+                    "latitude": 34.367043,
+                    "longitude": -89.519411
+                }
+            },
+            "link": "/v3/places/57774763498e47abfece6a21",
+            "location": {
+                "address": "1101 Jackson Ave E",
+                "census_block": "280719502011018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1101 Jackson Ave E, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Saint Leo",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5992304d237dee67c3cd20b9",
+            "categories": [
+                {
+                    "id": 13022,
+                    "name": "Sports Bar",
+                    "short_name": "Sports Bar",
+                    "plural_name": "Sports Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "short_name": "Burgers",
+                    "plural_name": "Burger Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 89,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 34.3671,
+                    "longitude": -89.518587
+                },
+                "main": {
+                    "latitude": 34.367144,
+                    "longitude": -89.51877
+                },
+                "roof": {
+                    "latitude": 34.367144,
+                    "longitude": -89.51877
+                }
+            },
+            "link": "/v3/places/5992304d237dee67c3cd20b9",
+            "location": {
+                "address": "105 N Lamar Blvd",
+                "census_block": "280719502011018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "105 N Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "The Blind Pig Pub",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4d8bdb875488a35dd600dc96",
+            "categories": [
+                {
+                    "id": 13305,
+                    "name": "Burrito Restaurant",
+                    "short_name": "Burritos",
+                    "plural_name": "Burrito Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burrito_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13306,
+                    "name": "Taco Restaurant",
+                    "short_name": "Tacos",
+                    "plural_name": "Taco Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13307,
+                    "name": "Tex-Mex Restaurant",
+                    "short_name": "Tex-Mex",
+                    "plural_name": "Tex-Mex Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 101,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365921,
+                    "longitude": -89.520294
+                },
+                "roof": {
+                    "latitude": 34.365921,
+                    "longitude": -89.520294
+                }
+            },
+            "link": "/v3/places/4d8bdb875488a35dd600dc96",
+            "location": {
+                "address": "1004 Van Buren Ave",
+                "census_block": "280719502042009",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1004 Van Buren Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "South Depot Taco Shop",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "560c9cfe498e21b7f5bd7c96",
+            "categories": [
+                {
+                    "id": 13002,
+                    "name": "Bakery",
+                    "short_name": "Bakery",
+                    "plural_name": "Bakeries",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "short_name": "Ice Cream",
+                    "plural_name": "Ice Cream Parlors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 133,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365356,
+                    "longitude": -89.518712
+                },
+                "roof": {
+                    "latitude": 34.365356,
+                    "longitude": -89.518712
+                }
+            },
+            "link": "/v3/places/560c9cfe498e21b7f5bd7c96",
+            "location": {
+                "address": "303 S Lamar Blvd",
+                "census_block": "280719502043007",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "303 S Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Insomnia Cookies",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5404ab4f498ede8bd394a7a1",
+            "categories": [
+                {
+                    "id": 13055,
+                    "name": "Fried Chicken Joint",
+                    "short_name": "Fried Chicken",
+                    "plural_name": "Fried Chicken Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13343,
+                    "name": "South American Restaurant",
+                    "short_name": "South American",
+                    "plural_name": "South American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 134,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365338,
+                    "longitude": -89.519265
+                },
+                "roof": {
+                    "latitude": 34.365338,
+                    "longitude": -89.519265
+                }
+            },
+            "link": "/v3/places/5404ab4f498ede8bd394a7a1",
+            "location": {
+                "address": "306 S Lamar Blvd",
+                "census_block": "280719502042011",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "306 S Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Gus's World Famous Fried Chicken",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "61736fe3eacb1b0188fa0879",
+            "categories": [
+                {
+                    "id": 10041,
+                    "name": "Rock Club",
+                    "short_name": "Rock Club",
+                    "plural_name": "Rock Clubs",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 134,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365319,
+                    "longitude": -89.519338
+                },
+                "roof": {
+                    "latitude": 34.365319,
+                    "longitude": -89.519338
+                }
+            },
+            "link": "/v3/places/61736fe3eacb1b0188fa0879",
+            "location": {
+                "address": "308 S Lamar Blvd",
+                "census_block": "280719502042011",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "308 S Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Rockhouse Live",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "59bb1f9f419a9e5cfcda68c5",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "short_name": "Bar",
+                    "plural_name": "Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13026,
+                    "name": "BBQ Joint",
+                    "short_name": "BBQ",
+                    "plural_name": "BBQ Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 155,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 34.36531,
+                    "longitude": -89.518969
+                },
+                "main": {
+                    "latitude": 34.365274,
+                    "longitude": -89.5188
+                },
+                "roof": {
+                    "latitude": 34.365274,
+                    "longitude": -89.5188
+                }
+            },
+            "link": "/v3/places/59bb1f9f419a9e5cfcda68c5",
+            "location": {
+                "address": "311 S Lamar Blvd",
+                "census_block": "280719502043007",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "311 S Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Moe's Original BBQ",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5dad0d3ffb06640008456bb0",
+            "categories": [
+                {
+                    "id": 13032,
+                    "name": "Cafe, Coffee, and Tea House",
+                    "short_name": "Cafe, Coffee, and Tea House",
+                    "plural_name": "Cafes, Coffee, and Tea Houses",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "short_name": "Ice Cream",
+                    "plural_name": "Ice Cream Parlors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 183,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.368047,
+                    "longitude": -89.518762
+                },
+                "roof": {
+                    "latitude": 34.368047,
+                    "longitude": -89.518762
+                }
+            },
+            "link": "/v3/places/5dad0d3ffb06640008456bb0",
+            "location": {
+                "address": "309 N Lamar Blvd",
+                "census_block": "280719502011018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "309 N Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "The Oxford Creamery",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "60db52619848663301d48d5c",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 206,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.368321,
+                    "longitude": -89.518629
+                },
+                "roof": {
+                    "latitude": 34.368321,
+                    "longitude": -89.518629
+                }
+            },
+            "link": "/v3/places/60db52619848663301d48d5c",
+            "location": {
+                "address": "319 N Lamar Blvd",
+                "address_extended": "Ste 101",
+                "census_block": "280719502011018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "319 N Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Rosati’S Pizza",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b9541e6f964a520679834e3",
+            "categories": [
+                {
+                    "id": 13000,
+                    "name": "Dining and Drinking",
+                    "short_name": "Dining and Drinking",
+                    "plural_name": "Dining and Drinking",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13055,
+                    "name": "Fried Chicken Joint",
+                    "short_name": "Fried Chicken",
+                    "plural_name": "Fried Chicken Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 236,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.364507,
+                    "longitude": -89.519462
+                },
+                "roof": {
+                    "latitude": 34.364507,
+                    "longitude": -89.519462
+                }
+            },
+            "link": "/v3/places/4b9541e6f964a520679834e3",
+            "location": {
+                "census_block": "280719502042018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Abner's Chicken",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b79ab38f964a520d1092fe3",
+            "categories": [
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "16e78f60-992b-0132-fd75-7a163eb2a6fc",
+                    "name": "Sonic Drive-In"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 258,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.36418,
+                    "longitude": -89.518372
+                },
+                "roof": {
+                    "latitude": 34.36418,
+                    "longitude": -89.518372
+                }
+            },
+            "link": "/v3/places/4b79ab38f964a520d1092fe3",
+            "location": {
+                "address": "1207 University Ave",
+                "census_block": "280719502043008",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "1207 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Sonic Drive-In",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b7f096ff964a520f91130e3",
+            "categories": [
+                {
+                    "id": 19014,
+                    "name": "Hotel",
+                    "short_name": "Hotel",
+                    "plural_name": "Hotels",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13000,
+                    "name": "Dining and Drinking",
+                    "short_name": "Dining and Drinking",
+                    "plural_name": "Dining and Drinking",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 11029,
+                    "name": "Convention Center",
+                    "short_name": "Convention Center",
+                    "plural_name": "Convention Centers",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 273,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.368805,
+                    "longitude": -89.517896
+                },
+                "roof": {
+                    "latitude": 34.368805,
+                    "longitude": -89.517896
+                }
+            },
+            "link": "/v3/places/4b7f096ff964a520f91130e3",
+            "location": {
+                "address": "400 N Lamar Blvd",
+                "census_block": "280719502011022",
+                "country": "US",
+                "cross_street": "at Jefferson Ave",
+                "dma": "Memphis",
+                "formatted_address": "400 N Lamar Blvd (at Jefferson Ave), Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Graduate Oxford",
+            "related_places": {
+                "children": [
+                    {
+                        "fsq_id": "564e7b57498e4c9928597fe7",
+                        "categories": [
+                            {
+                                "id": 13035,
+                                "name": "Coffee Shop",
+                                "short_name": "Coffee Shop",
+                                "plural_name": "Coffee Shops",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13028,
+                                "name": "Breakfast Spot",
+                                "short_name": "Breakfast",
+                                "plural_name": "Breakfast Spots",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13034,
+                                "name": "Café",
+                                "short_name": "Café",
+                                "plural_name": "Cafés",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Cabin 82"
+                    },
+                    {
+                        "fsq_id": "5615dc37498e673d338ba02f",
+                        "categories": [
+                            {
+                                "id": 13068,
+                                "name": "American Restaurant",
+                                "short_name": "American",
+                                "plural_name": "American Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13297,
+                                "name": "Latin American Restaurant",
+                                "short_name": "Latin American",
+                                "plural_name": "Latin American Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/latinamerican_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "The Coop"
+                    }
+                ]
+            },
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5615dc37498e673d338ba02f",
+            "categories": [
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13297,
+                    "name": "Latin American Restaurant",
+                    "short_name": "Latin American",
+                    "plural_name": "Latin American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/latinamerican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 286,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.368869,
+                    "longitude": -89.517881
+                },
+                "roof": {
+                    "latitude": 34.368869,
+                    "longitude": -89.517881
+                }
+            },
+            "link": "/v3/places/5615dc37498e673d338ba02f",
+            "location": {
+                "address": "400 N Lamar Blvd",
+                "census_block": "280719502011022",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "400 N Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "The Coop",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4b7f096ff964a520f91130e3",
+                    "categories": [
+                        {
+                            "id": 19014,
+                            "name": "Hotel",
+                            "short_name": "Hotel",
+                            "plural_name": "Hotels",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                "suffix": ".png"
+                            }
+                        },
+                        {
+                            "id": 13000,
+                            "name": "Dining and Drinking",
+                            "short_name": "Dining and Drinking",
+                            "plural_name": "Dining and Drinking",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                "suffix": ".png"
+                            }
+                        },
+                        {
+                            "id": 11029,
+                            "name": "Convention Center",
+                            "short_name": "Convention Center",
+                            "plural_name": "Convention Centers",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/conventioncenter_",
+                                "suffix": ".png"
+                            }
+                        }
+                    ],
+                    "name": "Graduate Oxford"
+                }
+            },
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "61a6a471cf9d2f5097f8bc99",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "short_name": "Bar",
+                    "plural_name": "Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 595,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.364229,
+                    "longitude": -89.511222
+                },
+                "roof": {
+                    "latitude": 34.364229,
+                    "longitude": -89.511222
+                }
+            },
+            "link": "/v3/places/61a6a471cf9d2f5097f8bc99",
+            "location": {
+                "address": "1737 University Ave",
+                "address_extended": "# B",
+                "census_block": "280719502043000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1737 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Walk-On's Sports Bistreaux - Oxford Restaurant",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4bca2ee8511f9521c341afc7",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4ba130-d68a-012e-5619-003048cad9da",
+                    "name": "Little Caesars Pizza"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 752,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.363746,
+                    "longitude": -89.511954
+                },
+                "roof": {
+                    "latitude": 34.363746,
+                    "longitude": -89.511954
+                }
+            },
+            "link": "/v3/places/4bca2ee8511f9521c341afc7",
+            "location": {
+                "address": "1725 University Ave",
+                "census_block": "280719502043000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1725 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Little Caesars Pizza",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4c75c375d8948cfa82cd68da",
+            "categories": [
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "short_name": "Ice Cream",
+                    "plural_name": "Ice Cream Parlors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "16e84ee0-992b-0132-fd75-7a163eb2a6fc",
+                    "name": "TCBY"
+                }
+            ],
+            "closed_bucket": "Unsure",
+            "distance": 817,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.364485,
+                    "longitude": -89.510681
+                },
+                "roof": {
+                    "latitude": 34.364485,
+                    "longitude": -89.510681
+                }
+            },
+            "link": "/v3/places/4c75c375d8948cfa82cd68da",
+            "location": {
+                "address": "501 Bramlett Blvd",
+                "census_block": "280719502043000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "501 Bramlett Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "TCBY",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4b770d30f964a52049782ee3",
+                    "categories": [
+                        {
+                            "id": 17035,
+                            "name": "Drugstore",
+                            "short_name": "Drugstore",
+                            "plural_name": "Drugstores",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+                                "suffix": ".png"
+                            }
+                        }
+                    ],
+                    "name": "Chaney's Pharmacy"
+                }
+            },
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b6c34d5f964a52066292ce3",
+            "categories": [
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "short_name": "Burgers",
+                    "plural_name": "Burger Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4a9b10-d68a-012e-5619-003048cad9da",
+                    "name": "Burger King"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 827,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.363363,
+                    "longitude": -89.511084
+                },
+                "roof": {
+                    "latitude": 34.363363,
+                    "longitude": -89.511084
+                }
+            },
+            "link": "/v3/places/4b6c34d5f964a52066292ce3",
+            "location": {
+                "address": "1741 University Ave",
+                "census_block": "280719502043000",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "1741 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Burger King",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b68f87df964a5205b952be3",
+            "categories": [
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13303,
+                    "name": "Mexican Restaurant",
+                    "short_name": "Mexican",
+                    "plural_name": "Mexican Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4b8010-d68a-012e-5619-003048cad9da",
+                    "name": "Taco Bell"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 841,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 34.36259,
+                    "longitude": -89.51147
+                },
+                "front_door": {
+                    "latitude": 34.362676,
+                    "longitude": -89.511452
+                },
+                "main": {
+                    "latitude": 34.362676,
+                    "longitude": -89.511452
+                },
+                "roof": {
+                    "latitude": 34.362542,
+                    "longitude": -89.511484
+                }
+            },
+            "link": "/v3/places/4b68f87df964a5205b952be3",
+            "location": {
+                "address": "1726 University Ave",
+                "census_block": "280719502043014",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "1726 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "po_box": "P.O. Box 1610",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Taco Bell",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5214120511d22704443190de",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "short_name": "Sushi",
+                    "plural_name": "Sushi Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 988,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.375008,
+                    "longitude": -89.516636
+                },
+                "roof": {
+                    "latitude": 34.375008,
+                    "longitude": -89.516636
+                }
+            },
+            "link": "/v3/places/5214120511d22704443190de",
+            "location": {
+                "address": "713 N Lamar Blvd",
+                "census_block": "280719502011000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "713 N Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Jinsei",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b68f8b7f964a52067952be3",
+            "categories": [
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "short_name": "Burgers",
+                    "plural_name": "Burger Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4a3530-d68a-012e-5619-003048cad9da",
+                    "name": "McDonald's"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1054,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.362178,
+                    "longitude": -89.509099
+                },
+                "roof": {
+                    "latitude": 34.362178,
+                    "longitude": -89.509099
+                }
+            },
+            "link": "/v3/places/4b68f8b7f964a52067952be3",
+            "location": {
+                "address": "1900 University Ave",
+                "census_block": "280719502041003",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "1900 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "McDonald's",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b74abebf964a5208deb2de3",
+            "categories": [
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13095,
+                    "name": "Cajun and Creole Restaurant",
+                    "short_name": "Cajun / Creole",
+                    "plural_name": "Cajun and Creole Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cajun_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1090,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.362717,
+                    "longitude": -89.508148
+                },
+                "roof": {
+                    "latitude": 34.362717,
+                    "longitude": -89.508148
+                }
+            },
+            "link": "/v3/places/4b74abebf964a5208deb2de3",
+            "location": {
+                "address": "1931 University Ave",
+                "census_block": "280719502012013",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1931 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Oby's",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4ca8f48a14c337041274d93b",
+            "categories": [
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13307,
+                    "name": "Tex-Mex Restaurant",
+                    "short_name": "Tex-Mex",
+                    "plural_name": "Tex-Mex Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13343,
+                    "name": "South American Restaurant",
+                    "short_name": "South American",
+                    "plural_name": "South American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 1178,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.362899,
+                    "longitude": -89.50886
+                },
+                "roof": {
+                    "latitude": 34.362899,
+                    "longitude": -89.50886
+                }
+            },
+            "link": "/v3/places/4ca8f48a14c337041274d93b",
+            "location": {
+                "address": "1921 University Ave",
+                "census_block": "280719502012013",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1921 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "The Taco Shop",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4bd0a6dab221c9b62521d4d0",
+            "categories": [
+                {
+                    "id": 13039,
+                    "name": "Deli",
+                    "short_name": "Deli",
+                    "plural_name": "Delis",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4bee40-d68a-012e-5619-003048cad9da",
+                    "name": "Subway"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1180,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.36196,
+                    "longitude": -89.507572
+                },
+                "roof": {
+                    "latitude": 34.36196,
+                    "longitude": -89.507572
+                }
+            },
+            "link": "/v3/places/4bd0a6dab221c9b62521d4d0",
+            "location": {
+                "address": "1948 University Ave",
+                "census_block": "280719502041003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1948 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Subway",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b50b9ccf964a520822f27e3",
+            "categories": [
+                {
+                    "id": 13099,
+                    "name": "Chinese Restaurant",
+                    "short_name": "Chinese",
+                    "plural_name": "Chinese Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 1192,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.361769,
+                    "longitude": -89.507618
+                },
+                "roof": {
+                    "latitude": 34.361769,
+                    "longitude": -89.507618
+                }
+            },
+            "link": "/v3/places/4b50b9ccf964a520822f27e3",
+            "location": {
+                "address": "1938 University Ave",
+                "address_extended": "# 1310",
+                "census_block": "280719502041003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1938 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "China Royal",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "58275f59b244c820c6a0b123",
+            "categories": [
+                {
+                    "id": 13307,
+                    "name": "Tex-Mex Restaurant",
+                    "short_name": "Tex-Mex",
+                    "plural_name": "Tex-Mex Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1216,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.362133,
+                    "longitude": -89.509041
+                },
+                "roof": {
+                    "latitude": 34.362133,
+                    "longitude": -89.509041
+                }
+            },
+            "link": "/v3/places/58275f59b244c820c6a0b123",
+            "location": {
+                "address": "1912 University Ave",
+                "address_extended": "Ste 1",
+                "census_block": "280719502041003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1912 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "La Perla Tapatia",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5b9a002df193c0002ce70d12",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13000,
+                    "name": "Dining and Drinking",
+                    "short_name": "Dining and Drinking",
+                    "plural_name": "Dining and Drinking",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+                    "name": "Domino's Pizza"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1255,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.360692,
+                    "longitude": -89.507598
+                },
+                "roof": {
+                    "latitude": 34.360692,
+                    "longitude": -89.507598
+                }
+            },
+            "link": "/v3/places/5b9a002df193c0002ce70d12",
+            "location": {
+                "address": "1920 University Ave",
+                "census_block": "280719502041003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1920 University Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "po_box": "P.O. Box 1016",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Domino's Pizza",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "56ba1e33498e293d3d4edfef",
+            "categories": [
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "7717a333-98a4-4021-a93e-28e2c25131e3",
+                    "name": "Steak 'n Shake"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1551,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 34.363721,
+                    "longitude": -89.535879
+                },
+                "front_door": {
+                    "latitude": 34.363468,
+                    "longitude": -89.536019
+                },
+                "main": {
+                    "latitude": 34.363468,
+                    "longitude": -89.536019
+                },
+                "roof": {
+                    "latitude": 34.363036,
+                    "longitude": -89.535871
+                }
+            },
+            "link": "/v3/places/56ba1e33498e293d3d4edfef",
+            "location": {
+                "census_block": "280719503012041",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "Oxford, MS 38677",
+                "locality": "Oxford",
+                "postcode": "38677",
+                "region": "MS"
+            },
+            "name": "Steak 'n Shake",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "60a95ced1b3a1a173b2d3b7d",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "short_name": "Bar",
+                    "plural_name": "Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13026,
+                    "name": "BBQ Joint",
+                    "short_name": "BBQ",
+                    "plural_name": "BBQ Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 1813,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.350074,
+                    "longitude": -89.520951
+                },
+                "roof": {
+                    "latitude": 34.350074,
+                    "longitude": -89.520951
+                }
+            },
+            "link": "/v3/places/60a95ced1b3a1a173b2d3b7d",
+            "location": {
+                "address": "2200 S Lamar Blvd",
+                "census_block": "280719502031018",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "2200 S Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Lamar Yard Smokehouse",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5cc0c6bf971317003ac24810",
+            "categories": [
+                {
+                    "id": 13303,
+                    "name": "Mexican Restaurant",
+                    "short_name": "Mexican",
+                    "plural_name": "Mexican Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13338,
+                    "name": "Seafood Restaurant",
+                    "short_name": "Seafood",
+                    "plural_name": "Seafood Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13343,
+                    "name": "South American Restaurant",
+                    "short_name": "South American",
+                    "plural_name": "South American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 2085,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365693,
+                    "longitude": -89.519044
+                },
+                "roof": {
+                    "latitude": 34.365693,
+                    "longitude": -89.519044
+                }
+            },
+            "link": "/v3/places/5cc0c6bf971317003ac24810",
+            "location": {
+                "address": "200 S Lamar Blvd",
+                "census_block": "280719502042010",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "200 S Lamar Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Soul Fish Cafe",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5debf2f380f3150007229139",
+            "categories": [
+                {
+                    "id": 13009,
+                    "name": "Cocktail Bar",
+                    "short_name": "Cocktail",
+                    "plural_name": "Cocktail Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13303,
+                    "name": "Mexican Restaurant",
+                    "short_name": "Mexican",
+                    "plural_name": "Mexican Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 2113,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.347546,
+                    "longitude": -89.522166
+                },
+                "roof": {
+                    "latitude": 34.347546,
+                    "longitude": -89.522166
+                }
+            },
+            "link": "/v3/places/5debf2f380f3150007229139",
+            "location": {
+                "address": "206 S Lamar Ct",
+                "census_block": "280719502031014",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "206 S Lamar Ct, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Uno Mas Tacos And Tequ",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "555e1f03498e35245303c7de",
+            "categories": [
+                {
+                    "id": 10006,
+                    "name": "Bowling Alley",
+                    "short_name": "Bowling Alley",
+                    "plural_name": "Bowling Alleys",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/bowling_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "short_name": "Restaurant",
+                    "plural_name": "Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 2176,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.374872,
+                    "longitude": -89.497518
+                },
+                "roof": {
+                    "latitude": 34.374872,
+                    "longitude": -89.497518
+                }
+            },
+            "link": "/v3/places/555e1f03498e35245303c7de",
+            "location": {
+                "address": "204 Common Wealth Blvd",
+                "census_block": "280719502012003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "204 Common Wealth Blvd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Premier Lanes",
+            "related_places": {
+                "children": []
+            },
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b880ec2f964a52068dc31e3",
+            "categories": [
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4ae740-d68a-012e-5619-003048cad9da",
+                    "name": "Wendy's"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 2193,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.373513,
+                    "longitude": -89.496947
+                },
+                "roof": {
+                    "latitude": 34.373513,
+                    "longitude": -89.496947
+                }
+            },
+            "link": "/v3/places/4b880ec2f964a52068dc31e3",
+            "location": {
+                "address": "703 Sisk Ave",
+                "census_block": "280719502012003",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "703 Sisk Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Wendy's",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5f5c1b99fd2335013699b384",
+            "categories": [
+                {
+                    "id": 13009,
+                    "name": "Cocktail Bar",
+                    "short_name": "Cocktail",
+                    "plural_name": "Cocktail Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13338,
+                    "name": "Seafood Restaurant",
+                    "short_name": "Seafood",
+                    "plural_name": "Seafood Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 2229,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.373532,
+                    "longitude": -89.496393
+                },
+                "roof": {
+                    "latitude": 34.373532,
+                    "longitude": -89.496393
+                }
+            },
+            "link": "/v3/places/5f5c1b99fd2335013699b384",
+            "location": {
+                "address": "705 Sisk Ave",
+                "census_block": "280719502012003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "705 Sisk Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Alligator Lounge",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "59e9005aee71207a02f29889",
+            "categories": [
+                {
+                    "id": 13000,
+                    "name": "Dining and Drinking",
+                    "short_name": "Dining and Drinking",
+                    "plural_name": "Dining and Drinking",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 2254,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.373486,
+                    "longitude": -89.496336
+                }
+            },
+            "link": "/v3/places/59e9005aee71207a02f29889",
+            "location": {
+                "address": "705 Sisk Ave",
+                "address_extended": "Ste 111",
+                "census_block": "280719502012003",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "705 Sisk Ave, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Southern Craft Stove + Tap",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "591ef32f35f9831612aa7615",
+            "categories": [
+                {
+                    "id": 19007,
+                    "name": "Fuel Station",
+                    "short_name": "Fuel Station",
+                    "plural_name": "Fuel Stations",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gas_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13000,
+                    "name": "Dining and Drinking",
+                    "short_name": "Dining and Drinking",
+                    "plural_name": "Dining and Drinking",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 11044,
+                    "name": "ATM",
+                    "short_name": "ATM",
+                    "plural_name": "ATMs",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "16e6c030-992b-0132-fd75-7a163eb2a6fc",
+                    "name": "Shell"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 2628,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.379716,
+                    "longitude": -89.542915
+                },
+                "roof": {
+                    "latitude": 34.379716,
+                    "longitude": -89.542915
+                }
+            },
+            "link": "/v3/places/591ef32f35f9831612aa7615",
+            "location": {
+                "address": "825 College Hill Rd",
+                "census_block": "280719503031006",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "825 College Hill Rd, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Shell",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4bec908afd60a5932e3a3bf1",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4ab7c0-d68a-012e-5619-003048cad9da",
+                    "name": "Papa John's Pizza"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 2857,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.36619,
+                    "longitude": -89.550367
+                },
+                "roof": {
+                    "latitude": 34.36619,
+                    "longitude": -89.550367
+                }
+            },
+            "link": "/v3/places/4bec908afd60a5932e3a3bf1",
+            "location": {
+                "address": "1506 Jackson Ave W",
+                "census_block": "280719503011000",
+                "country": "US",
+                "cross_street": "Hathorn Rd",
+                "dma": "Memphis",
+                "formatted_address": "1506 Jackson Ave W (Hathorn Rd), Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Papa John's Pizza",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b8c51ecf964a52062ca32e3",
+            "categories": [
+                {
+                    "id": 13099,
+                    "name": "Chinese Restaurant",
+                    "short_name": "Chinese",
+                    "plural_name": "Chinese Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13263,
+                    "name": "Japanese Restaurant",
+                    "short_name": "Japanese",
+                    "plural_name": "Japanese Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 2880,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.367175,
+                    "longitude": -89.550752
+                },
+                "roof": {
+                    "latitude": 34.367175,
+                    "longitude": -89.550752
+                }
+            },
+            "link": "/v3/places/4b8c51ecf964a52062ca32e3",
+            "location": {
+                "address": "1501 Jackson Ave W",
+                "address_extended": "Ste 101",
+                "census_block": "280719503041006",
+                "country": "US",
+                "cross_street": "at Anderson Rd.",
+                "dma": "Memphis",
+                "formatted_address": "1501 Jackson Ave W (at Anderson Rd.), Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Big Bowl",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4c460bc6f1b5c9b66e5378ef",
+            "categories": [
+                {
+                    "id": 13072,
+                    "name": "Asian Restaurant",
+                    "short_name": "Asian",
+                    "plural_name": "Asian Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 2881,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.367175,
+                    "longitude": -89.550752
+                },
+                "roof": {
+                    "latitude": 34.367175,
+                    "longitude": -89.550752
+                }
+            },
+            "link": "/v3/places/4c460bc6f1b5c9b66e5378ef",
+            "location": {
+                "address": "1501 Jackson Ave W",
+                "census_block": "280719503041006",
+                "country": "US",
+                "cross_street": "Hathorn",
+                "dma": "Memphis",
+                "formatted_address": "1501 Jackson Ave W (Hathorn), Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "The Big Bowl Asian Bistro",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b5cd897f964a520074729e3",
+            "categories": [
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "short_name": "Pizza",
+                    "plural_name": "Pizzerias",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13000,
+                    "name": "Dining and Drinking",
+                    "short_name": "Dining and Drinking",
+                    "plural_name": "Dining and Drinking",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+                    "name": "Domino's Pizza"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 2983,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.366316,
+                    "longitude": -89.551778
+                },
+                "roof": {
+                    "latitude": 34.366316,
+                    "longitude": -89.551778
+                }
+            },
+            "link": "/v3/places/4b5cd897f964a520074729e3",
+            "location": {
+                "address": "1603 Jackson Ave W",
+                "census_block": "280719503042000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1603 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "po_box": "P.O. Box 1016",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Domino's Pizza",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "5f2da499ffd5a51007f95344",
+            "categories": [
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "short_name": "Ice Cream",
+                    "plural_name": "Ice Cream Parlors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13068,
+                    "name": "American Restaurant",
+                    "short_name": "American",
+                    "plural_name": "American Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 3077,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.365066,
+                    "longitude": -89.552692
+                },
+                "roof": {
+                    "latitude": 34.365066,
+                    "longitude": -89.552692
+                }
+            },
+            "link": "/v3/places/5f2da499ffd5a51007f95344",
+            "location": {
+                "address": "1700 Jackson Ave W",
+                "census_block": "280719503011000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1700 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Dairy Queen Grill & Chill",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b6c6f12f964a520d4392ce3",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "short_name": "Sushi",
+                    "plural_name": "Sushi Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 3094,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.366106,
+                    "longitude": -89.552377
+                },
+                "roof": {
+                    "latitude": 34.366106,
+                    "longitude": -89.552377
+                }
+            },
+            "link": "/v3/places/4b6c6f12f964a520d4392ce3",
+            "location": {
+                "address": "1631 Jackson Ave W",
+                "census_block": "280719503042000",
+                "country": "US",
+                "dma": "Memphis",
+                "formatted_address": "1631 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Kabuki",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "53dc2654498e3f60041a95bc",
+            "categories": [
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "short_name": "Coffee Shop",
+                    "plural_name": "Coffee Shops",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+                    "name": "Starbucks"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 3175,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.364645,
+                    "longitude": -89.553889
+                },
+                "roof": {
+                    "latitude": 34.364645,
+                    "longitude": -89.553889
+                }
+            },
+            "link": "/v3/places/53dc2654498e3f60041a95bc",
+            "location": {
+                "address": "1804 Jackson Ave W",
+                "census_block": "280719503011000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1804 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Starbucks",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b632412f964a520f6652ae3",
+            "categories": [
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "short_name": "Burgers",
+                    "plural_name": "Burger Joints",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4a3530-d68a-012e-5619-003048cad9da",
+                    "name": "McDonald's"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 3332,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.364954,
+                    "longitude": -89.555533
+                },
+                "roof": {
+                    "latitude": 34.364954,
+                    "longitude": -89.555533
+                }
+            },
+            "link": "/v3/places/4b632412f964a520f6652ae3",
+            "location": {
+                "address": "1803 Jackson Ave W",
+                "census_block": "280719503042000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1803 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "McDonald's",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "541988f7498efeb92c04aa57",
+            "categories": [
+                {
+                    "id": 13002,
+                    "name": "Bakery",
+                    "short_name": "Bakery",
+                    "plural_name": "Bakeries",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13032,
+                    "name": "Cafe, Coffee, and Tea House",
+                    "short_name": "Cafe, Coffee, and Tea House",
+                    "plural_name": "Cafes, Coffee, and Tea Houses",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "329bcac7-1481-4df4-9789-004a0afb128e",
+                    "name": "Panera Bread"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 3362,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.363886,
+                    "longitude": -89.555716
+                },
+                "roof": {
+                    "latitude": 34.363886,
+                    "longitude": -89.555716
+                }
+            },
+            "link": "/v3/places/541988f7498efeb92c04aa57",
+            "location": {
+                "address": "1902 Jackson Ave W",
+                "census_block": "280719503011000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1902 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Panera Bread",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4b69c5c8f964a52057b32be3",
+            "categories": [
+                {
+                    "id": 13039,
+                    "name": "Deli",
+                    "short_name": "Deli",
+                    "plural_name": "Delis",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4bee40-d68a-012e-5619-003048cad9da",
+                    "name": "Subway"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 3407,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.364752,
+                    "longitude": -89.556336
+                },
+                "roof": {
+                    "latitude": 34.364752,
+                    "longitude": -89.556336
+                }
+            },
+            "link": "/v3/places/4b69c5c8f964a52057b32be3",
+            "location": {
+                "address": "1901 Jackson Ave W",
+                "address_extended": "Ste C",
+                "census_block": "280719503042000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1901 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Subway",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        },
+        {
+            "fsq_id": "4bfebf1ce584c928802b6d25",
+            "categories": [
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4ae740-d68a-012e-5619-003048cad9da",
+                    "name": "Wendy's"
+                }
+            ],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 3413,
+            "geocodes": {
+                "main": {
+                    "latitude": 34.363739,
+                    "longitude": -89.5563
+                },
+                "roof": {
+                    "latitude": 34.363739,
+                    "longitude": -89.5563
+                }
+            },
+            "link": "/v3/places/4bfebf1ce584c928802b6d25",
+            "location": {
+                "address": "1904 Jackson Ave W",
+                "census_block": "280719503011000",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Memphis",
+                "formatted_address": "1904 Jackson Ave W, Oxford, MS 38655",
+                "locality": "Oxford",
+                "postcode": "38655",
+                "region": "MS"
+            },
+            "name": "Wendy's",
+            "related_places": {},
+            "timezone": "America/Chicago"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 34.3665,
+                    "longitude": -89.51925
+                },
+                "radius": 4573
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Filter
+    </ion-title>
+    <ion-buttons slot="start">
+      <ion-button [routerLink]="['../home']">
+        <ion-icon name="arrow-back-outline"></ion-icon>
+      </ion-button>
+      <!-- <ion-back-button default-href="/atabs/home"></ion-back-button> -->
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-toolbar>
+    <ion-title size="large">Filters</ion-title>
+  </ion-toolbar>
+
+  <div class="container">
+
+
+    <ion-range [(ngModel)]="parameters.price" (ngModelChange)="updateFilter()" class="spacer" label="Price Range" labelPlacement="stacked" [min]="0" [max]="4" [value]="0" [pin]="true"
+      [snaps]="true"></ion-range>
+
+    <ion-checkbox [(ngModel)]="parameters.openNow" (ngModelChange)="updateFilter()" class="spacer" justify="space-between">Is it open now?</ion-checkbox>
+
+  </div>
+
+</ion-content>
